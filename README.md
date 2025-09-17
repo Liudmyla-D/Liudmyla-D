@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Liudmyla
 
-<!--
-**Liudmyla-D/Liudmyla-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love bringing order to data — organising it, spotting patterns, optimising processes, and making KPIs transparent for decision-making.  
+**Goal:** Data Analyst
 
-Here are some ideas to get you started:
+### 🔭 Featured Projects
+- **Excel Sales Analytics Dashboard** — 4 interactive dashboards (KPIs, trends, managers, correlations) with business insights: **₴294.9M revenue, 48.6% markup, 15 AR days**.  
+  👉 Repo: [Excel-Analytics-Dashboard](https://github.com/Liudmyla-D/Excel-Analytics-Dashboard)
+- **SQL Case Studies** — data cleaning & analysis queries (joins, window functions, KPIs).  
+  👉 Repo: *coming next* (placeholder)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Core Tools & Skills
+- **Excel** (Power Query, Power Pivot/DAX, PivotCharts, automation)  
+- **SQL** (queries, joins, CTEs, window functions; MySQL/PostgreSQL)  
+- **Visualization / Reporting** (KPI design, trend & variance analysis, cohort/segmentation)
+
+### 🤝 What I’m Looking For
+Data Analyst / BI roles or collaborations where I can build **practical analytics**.
+
+### 📬 Get in Touch
+- **LinkedIn:** https://www.linkedin.com/in/liudmyla-sibikovska/  
+- **Email:** lyudchiksib@gmail.com

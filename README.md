@@ -4,18 +4,20 @@ I love bringing order to data — organising it, spotting patterns, optimising p
 **Goal:** Data Analyst
 
 ### 🔭 Featured Projects
-- **Excel Sales Analytics Dashboard** — 4 interactive dashboards (KPIs, trends, managers, correlations) with business insights: **₴294.9M revenue, 48.6% markup, 15 AR days**.  
+- **Excel Sales Analytics Dashboard** — four interactive dashboards (KPIs, trends, managers, correlations) with business insights: **₴294.9M revenue, 48.6% markup, 15 AR days**.  
   👉 Repo: [Excel-Analytics-Dashboard](https://github.com/Liudmyla-D/Excel-Analytics-Dashboard)
-- **SQL Case Studies** — data cleaning & analysis queries (joins, window functions, KPIs).  
-  👉 Repo: *coming next* (placeholder)
+- **SQL Case Study: Online Store (Installment Plans, Mobile Phones)** — data cleaning & analysis queries (joins, window functions, KPIs).  
+  👉 Repo: *coming next*
 
 ### 🧰 Core Tools & Skills
-- **Excel** (Power Query, Power Pivot/DAX, PivotCharts, automation)  
-- **SQL** (queries, joins, CTEs, window functions; MySQL/PostgreSQL)  
-- **Visualization / Reporting** (KPI design, trend & variance analysis, cohort/segmentation)
+- **Data / BI:** Excel (Power Query / Power Pivot), Google Sheets, Power BI, Looker Studio *(learning)*  
+- **SQL:** JOINs, CTEs, window functions (T-SQL / PostgreSQL)  
+- **KPIs & Reporting:** inventory turns, goods movement, warehouse productivity, logistics costs, budget vs actual  
+- **Process & Documentation:** SOPs/regulations, data requirements, organisational structures  
+- **Collaboration Tools:** Jira, Confluence, Miro
 
 ### 🤝 What I’m Looking For
-Data Analyst / BI roles or collaborations where I can build **practical analytics**.
+Data Analyst **roles** where I can build **practical analytics**, find insights, and improve business efficiency.
 
 ### 📬 Get in Touch
 - **LinkedIn:** https://www.linkedin.com/in/liudmyla-sibikovska/  

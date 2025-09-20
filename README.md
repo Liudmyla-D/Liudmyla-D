@@ -7,7 +7,7 @@ I love bringing order to data — organising it, spotting patterns, optimising p
 - **Excel Sales Analytics Dashboard** — four interactive dashboards (KPIs, trends, managers, correlations) with business insights: **₴294.9M revenue, 48.6% markup, 15 AR days**.  
   👉 Repo: [Excel-Analytics-Dashboard](https://github.com/Liudmyla-D/Excel-Analytics-Dashboard)
 - **SQL Case Study: Online Store (Installment Plans, Mobile Phones)** — data cleaning & analysis queries (joins, window functions, KPIs).  
-  👉 Repo: *coming next*
+  👉 Repo: [SQL-analytics-installmen](https://github.com/Liudmyla-D/SQL-analytics-installment)  
 
 ### 🧰 Core Tools & Skills
 - **Data / BI:** Excel (Power Query / Power Pivot), Google Sheets, Power BI, Looker Studio *(learning)*  

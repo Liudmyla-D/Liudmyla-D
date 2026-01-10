@@ -4,6 +4,8 @@ I love bringing order to data — organizing it, spotting patterns, optimizing p
 **Goal:** Data Analyst
 
 ### 🔭 Featured Projects
+- **Metrocar: Funnel & Demand Analysis (SQL + Tableau)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.  
+  👉 Repo: **[metrocar-analysis](https://github.com/Liudmyla-D/metrocar-analysis)**
 - **SQL Case Study: Online Store (Installment Plans, Mobile Phones)** — data cleaning & analysis queries (JOINs, window functions, KPIs).  
   👉 Repo: [SQL-analytics-installment](https://github.com/Liudmyla-D/SQL-analytics-installment)
 - **Excel Sales Analytics Dashboard** — four interactive dashboards (KPIs, trends, managers, correlations) with business insights: **₴294.9M revenue, 48.6% markup, 15 AR days**.  

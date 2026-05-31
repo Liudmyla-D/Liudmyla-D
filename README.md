@@ -10,6 +10,11 @@ I’m developing as a **Data Analyst / BI Analyst** with a focus on practical bu
 
 ### 🔭 Featured Projects
 
+### 🔭 Featured Projects
+
+- **Home Credit Default Risk Analysis (Python + SQL + ML basics)** — end-to-end credit risk analysis: data cleaning, EDA, customer segmentation, hypothesis testing, business insights, and a baseline model to understand default prediction challenges.  
+  👉 Repo: [home-credit-risk-analysis](https://github.com/Liudmyla-D/home-credit-default-risk)
+
 - **Metrocar: Funnel & Demand Analysis (SQL + Tableau)** — funnel drop-offs, wait time → cancellations, peak demand hours & operational recommendations.  
   👉 Repo: **[metrocar-analysis](https://github.com/Liudmyla-D/metrocar-analysis)**
 
@@ -26,13 +31,12 @@ I’m developing as a **Data Analyst / BI Analyst** with a focus on practical bu
 
 ### 🧰 Core Tools & Skills
 
-- **Data Analysis:** Python, Pandas, NumPy, Excel, Google Sheets  
-- **BI & Visualization:** Power BI, Tableau, Looker Studio *(learning)*, Matplotlib, Seaborn, Plotly  
-- **SQL:** JOINs, CTEs, window functions, query optimization basics *(T-SQL / PostgreSQL)*  
-- **Analytics:** KPIs, funnel analysis, A/B testing, hypothesis testing, reporting automation  
-- **Business Domains:** logistics, supply planning, inventory management, fintech analytics  
-- **Process & Documentation:** SOPs/regulations, data requirements, organizational structures  
-- **Collaboration Tools:** Jira, Confluence, Miro  
+- **Data Analysis:** Python, Pandas, NumPy, Excel, Google Sheets
+- **BI & Visualization:** Power BI, Tableau, Looker Studio, Matplotlib, Seaborn, Plotly
+- **SQL:** JOINs, CTEs, window functions, query optimization basics, DuckDB, T-SQL / PostgreSQL
+- **Machine Learning Basics:** classification baseline models, class imbalance, model evaluation
+- **Analytics:** KPIs, funnel analysis, A/B testing, hypothesis testing, reporting automation
+- **Business Domains:** fintech analytics, credit risk, logistics, supply planning, inventory management  
 
 ---
 

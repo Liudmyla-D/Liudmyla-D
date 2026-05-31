@@ -10,8 +10,6 @@ I’m developing as a **Data Analyst / BI Analyst** with a focus on practical bu
 
 ### 🔭 Featured Projects
 
-### 🔭 Featured Projects
-
 - **Home Credit Default Risk Analysis (Python + SQL + ML basics)** — end-to-end credit risk analysis: data cleaning, EDA, customer segmentation, hypothesis testing, business insights, and a baseline model to understand default prediction challenges.  
   👉 Repo: [home-credit-risk-analysis](https://github.com/Liudmyla-D/home-credit-default-risk)
 

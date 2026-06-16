@@ -4,8 +4,6 @@ I love bringing order to data — organizing it, spotting patterns, optimizing p
 
 I’m developing as a **Data Analyst / BI Analyst** with a focus on practical business analytics, reporting automation, SQL, Python, and dashboarding.
 
-**Goal:** Data Analyst / BI Analyst
-
 ---
 
 ### 🔭 Featured Projects
